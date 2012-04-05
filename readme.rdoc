@@ -1,0 +1,45 @@
+=  Emerald Nightmare Client
+
+This is a fork of Marforius-Client designed specifically for use with the Emerald-Nightmare server.
+
+
+= Installation & Use
+
+You need to simply copy all of the contents of the folder "COPY MY CONTENTS" and paste them into your 3.3.5a Wow folder and tell it to overwrite all of the files as necessary.
+<b>NOT BEEN TESTED WITH OTHER LOCALES THAN enUS</b>
+
+
+= Known bugs 
+
+No known bugs at this time. 
+
+= Misc
+  
+Repacker.exe will return false positives on engines that don't use accurate scanning methods. 
+Please see, http://www.assembla.com/code/marforius-client/subversion/nodes?rev=8 for scans of this file. 
+The executable's PE header (among other bloat) is missing because it is packed with FSG, which results in, apparently a false positive.
+
+
+= Tools
+
+A list of tools in the repo:
+
+Repacker::
+   If you want to reduce how much size your client takes up, run the program in the /Repacker/ directory of the client's folder, this will take all the patches and consolidate them - no data is lost or deleted and no functionality is harmed. It will clear up about 4.10GBs of data that is useless and overwritten when the client loads it.
+
+
+= Bugs / Feature requests
+
+If you have an idea for Marforius-Client that you want implemented or find a bug with the code, please open a ticket at https://github.com/Marforius/Marforius-Client/issues
+
+
+= License
+
+All files: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
+
+
+
+= Contact the Developers  
+
+irc.rizon.net #Marforius
+
