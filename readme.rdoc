@@ -38,6 +38,13 @@ If you have an idea for Marforius-Client that you want implemented or find a bug
 All files: http://creativecommons.org/licenses/by-nc-sa/3.0/us/
 
 
+= Screenshots
+
+<img src="http://s18.postimage.org/ekub5mvwp/Wo_WScrn_Shot_012612_115746.jpg"/>
+<img src="http://s9.postimage.org/dabjlwy4v/Wo_WScrn_Shot_012712_080027.jpg"/>
+<img src="http://s16.postimage.org/8vvxxe591/Wo_WScrn_Shot_040612_122248.jpg"/>
+
+
 
 = Contact the Developers  
 
